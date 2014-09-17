@@ -1,8 +1,8 @@
 # Drupal rédacteur
-
 Cette formation a pour but de vous familiariser avec le CMS Drupal. À la fin de la formation, nos experts Drupal vous auront appris à rédiger des contributions, gérer le contenu, le modifier et le modérer.
 
 ## Objectifs
+
    * Intégrer du contenu
    * Catégoriser les contenus
    * Hiérarchiser les contenus
