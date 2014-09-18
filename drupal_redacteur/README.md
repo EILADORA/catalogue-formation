@@ -1,4 +1,5 @@
 # Drupal rédacteur
+
 Cette formation a pour but de vous familiariser avec le CMS Drupal. À la fin de la formation, nos experts Drupal vous auront appris à rédiger des contributions, gérer le contenu, le modifier et le modérer.
 
 ## Objectifs
@@ -9,18 +10,23 @@ Cette formation a pour but de vous familiariser avec le CMS Drupal. À la fin de
    * Gérer un site sous Drupal hors administration
 
 ## Pré-requis
+
    * Connaître et manipuler internet
 
 ## Public
+
   * Tout publics
 
 ## Durée
+
 * 2 jours
 
 ## Prix
+
 * 790 €
 
 ## Programme
+
 1. Concepts fondamentaux de la gestion de contenu
     * Avantages de la publication sur un site dynamique
     * Utilisateurs, rôles, droits d'accès

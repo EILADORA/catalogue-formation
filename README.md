@@ -1,6 +1,7 @@
 ![Logo Makina Corpus](http://www.makina-corpus.com/media/imgs/makina_200px.png)
 
 # Catalogue de formation 2014
+
 * Mobilité
 * Webmapping
 * Développement web
