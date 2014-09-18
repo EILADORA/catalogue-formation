@@ -1,6 +1,6 @@
-![Logo Makina Corpus](http://www.makina-corpus.com/media/imgs/makina_200px.png)
+##![Logo Makina Corpus](http://www.makina-corpus.com/media/imgs/makina_200px.png)
 
-# Catalogue de formation 2014
+## Catalogue de formation 2014
 
 * Mobilité
 * Webmapping
@@ -8,7 +8,7 @@
 * Gestion de contenus
 * Développement front end
 
-Des formations réalisées par des experts, ça change tout.
+***Des formations réalisées par des experts, ça change tout.***
 
 ## Édito
 

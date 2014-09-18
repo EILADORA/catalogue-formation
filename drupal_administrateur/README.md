@@ -1,30 +1,30 @@
-# Drupal administrateur
+## Drupal administrateur
 
 Cette formation vous apportera les connaissances nécessaires à la création, la gestion et l'administration du contenu sur un site Drupal. Vous verrez comment créer et organiser les contenus, alimenter le site, ajouter des modules et personnaliser l'interface graphique en utilisant les thèmes.
 
-## Objectifs
+### Objectifs
 
   * Maîtriser le CMS Drupal
   * Administrer le contenu
   * Savoir sélectionner un module, l'installer et le paramétrer
 
-## Pré-requis
+### Pré-requis
 
   * Une pratique des outils informatiques sera appréciée mais non obligatoire
 
-## Public
+### Public
 
   * Futurs webmasters de site Drupal
 
-## Durée
+### Durée
 
 * 2 jours
 
-## Prix
+### Prix
 
 * 910 €
 
-## Programme
+### Programme
 
 1. Installation de Drupal
   * Configuration du serveur
