@@ -15,7 +15,7 @@ Cette formation a pour but de vous familiariser avec le CMS Drupal. À la fin de
 
 ### Public
 
-  * Tout publics
+  * Tout public
 
 ### Durée
 
