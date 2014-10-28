@@ -1,2 +1,2 @@
 # Gestion de contenu
-Les formations de gestion de contenu sont orientées sur les technologies Drupal et Plone.
+Du débutant à l'expert, apprenez à utiliser Drupal ou Plone, deux CMS très complets qui vous emmèneront 
