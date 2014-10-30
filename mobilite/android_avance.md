@@ -21,43 +21,43 @@ L’objectif de cette formation est de vous permettre de maîtriser un projet An
 * 2 500 €
 
 ### Programme
-* Première partie : Activité
-    * Android et le monde de la Technologie de l'information
+**Première partie : Activité**
+1. Android et le monde de la Technologie de l'information
       * Qu'est-ce qu'Android (Open Handset et versions du SDK) ?
       * Les principaux chiffres
       * La guerre des brevets
-    * La programmation Android sous Eclipse
+2. La programmation Android sous Eclipse
       * Mise en place de l’espace de travail
       * Le SDK Manager et l’AVD
       * Les différents wizards et outils WYSIWYG
       * La perspective DDMS en détail
       * Utilisation du DebugMode et des trackers (Heap, Thread, Allocation, CPU)
-    * Premiers pas
+3. Premiers pas
       * Règles de programmation Android
       * Vision globales des acteurs du système (Activity, Service, Intent, ContentProvider, BroadcastReceiver)
       * Structure d’un projet
       * Le fichier des layouts, des strings
       * Code Java d’une activity et cycle de vie
       * Tester son développement
-    * Éléments graphiques
+4. Éléments graphiques
       * Les éléments graphiques usuels (TextView, EditText, Button…)
       * Les layouts (LinearLayout, RelativeLayout, TableLayout)
       * Les éléments graphiques complexes (ListView, SliddingDrawer, Gallery, GridView, Spinner, AutoCompleteText, ViewFlipper)
       * Les fenêtres Dialog et Toast et customisation
       * Les menus contextuels et menus principaux
-    *Gestions des activités
+5. Gestions des activités
       * Cycle de vie des activités
       * Threads (Handler et AsyncTask)
       * Communication par intents
       * Les ressources (String, Layout, Drawables, XML, Raw, dimensions, couleurs, animations, styles et thèmes)
       * Caractéristique de l’appareil et choix des ressources
-    * Travaux pratiques
+6. Travaux pratiques
       * Utilisation de la perspective DDMS
       * Mise en place d'une activité simple
       * Mise en place d'une activité complexe (avec thread, gestion des ressources, utilisation des styles...)
 
-* Seconde partie : Autour de l’activité
-    * Persistance des données
+**Seconde partie : Autour de l’activité**
+1. Persistance des données
       * Gestion des préférences
       * Le système de fichier
       * Fichiers XML
@@ -65,35 +65,35 @@ L’objectif de cette formation est de vous permettre de maîtriser un projet An
       * Base de données locales SQLite
       * ContentProvider
       * Utilisation d’OrmLite
-    * Services
+2. Services
       * Mise en place d’un service en mode start et en mode bound
       * La notification
-    * Les permissions
+3. Les permissions
       * Demande
       * Mise en place et sécurisation de son application
       * La classe Application
-    * Travaux pratiques
+4. Travaux pratiques
       * Mise en place d'un ContentProvider lié à une base de données
       * Utilisation d'un ContentProvider natif (les Contacts)
 
-* Troisième partie : Autour de l’application
-    * Communication avec un serveur web
+**Troisième partie : Autour de l’application**
+1. Communication avec un serveur web
       * via un web Service REST
       * via l'utilisation du bus HTTP
       * via la WebView
-    * Quelques API du système
+2. Quelques API du système
       * Les Capteurs
       * La géolocalisation et l’alerte de proximité
       * Le MapView
       * La gestion du Wifi
-    * Packager l'application
+3. Packager l'application
       * Construire, signer et déployer son application
-    * Un peu d’architecture
+4. Un peu d’architecture
       * Quelques DesignPatterns
       * Les bonnes pratiques
       * Gérer le multi-screens
       * Résoudre la fragmentation
-    * Rapide présentation des nouveautés d’HoneyComb et d’IceCreamSandwich
+5. Rapide présentation des nouveautés d’HoneyComb et d’IceCreamSandwich
       * Fragments
       * ActionBar
       * SocialAPI
@@ -101,7 +101,7 @@ L’objectif de cette formation est de vous permettre de maîtriser un projet An
       * WifiDirect
       * Home screen Widget
       * GridLayout
-    * Travaux pratiques
+6. Travaux pratiques
       * Mise en place d'une activity écoutant un web Service REST
       * Une activity basée sur la webView
       * Construire et déployer son application

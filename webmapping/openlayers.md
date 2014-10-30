@@ -21,7 +21,6 @@ Cette formation vous apprendra à mettre en place des applications cartographiqu
   * Présentation du projet et de la librarie OpenLayers
   * Création d'un mini site Web simple
   * Utilisation de fonds de plan libres (OSM), et gratuits (Gmaps)
-
 2. Utilisation avancée
   * Utilisation exhaustive des différents paramétrages proposés par OpenLayers
   * Utilisation de couches WMS
@@ -30,12 +29,10 @@ Cette formation vous apprendra à mettre en place des applications cartographiqu
   * Fonctionnalités vectorielles (dessin)
   * Mise en place de scripts serveurs (PHP, Python) pour servir des données vectorielles
   * Notions de sécurité (ajax, wms)
-
 3. Développement autour d'OpenLayers
   * Étude en profondeur de la bibliothèque OpenLayers
   * Création de nouvelles classes et mise en œuvre
   * Passage en revue des sites de référence pour les développeurs
-
 4. Etude de cas pratiques
   * Utilisation de librairies/ framework annexes pour la construction de portails websig
   * Descriptions d'architectures métiers adaptées aux besoins

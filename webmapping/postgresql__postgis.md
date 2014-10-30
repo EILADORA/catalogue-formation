@@ -26,7 +26,6 @@ La formation vous permettra d'être autonome dans la mise en œuvre d'un serveur
   * Historique et présentation des communautés PostgreSQL et PostGIS
   * Architecture
   * Comparaison avec des solutions alternatives
-
 2. Bases de données relationnelles
   * Modélisation relationnelle et normalisation
   * Définition du schéma de la base de données
@@ -35,7 +34,6 @@ La formation vous permettra d'être autonome dans la mise en œuvre d'un serveur
   * Requêtes, jointures et agrégats
   * Manipulation des enregistrements
   * SQL avancé
-
 3. Exploiter la dimension spatiale
   * Construction, transformation et décomposition des géométries
   * Gestion des systèmes de coordonnées
@@ -45,25 +43,22 @@ La formation vous permettra d'être autonome dans la mise en œuvre d'un serveur
   * Vecteur, raster, 2D, 2.5D, 3D, ...
   * Requêtes spatiales classiques et avancées
   * Visualisation dans QGis
-
 4. Administration de la base de données
   * Installation et configuration
   * Gestion des droits
   * Sauvegarde d'une base spatiale
   * Import/export de données géographiques
   * Tables spéciales
-
 5. Performance
   * Configuration et utilisation des index
   * Optimisation et dénormalisation
   * Gestion de la mémoire
   * Bonnes pratiques
   * Outils de monitoring
-
 6. Pour aller plus loin
     * Programmation PL/PgSQL
     * Définition de trigger
     * Exploitation du module Raster de PostGIS 2
     * Exploitation du module Topologies de PostGIS 2
 
-Remarque : Chaque partie est accompagnée de travaux pratiques.
+> Remarque : Chaque partie est accompagnée de travaux pratiques

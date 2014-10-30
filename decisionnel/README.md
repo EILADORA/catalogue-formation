@@ -30,34 +30,28 @@ Talend s’impose comme LA solution d'intégration de données Open Source, puis
     * ETL : panorama des outils Propriétaires & Open Source
     * Intégration Opérationnelle & Décisionnelle
     * Présentation et installation de Talend Open Studio
-
 2. Modélisation et documentation de son projet
     * Utiliser le Business Modeler
     * Organiser les liens Modèle / Implémentation : assignation
     * Gérer sa Documentation / gestion de version
-
 3. Réalisation de Job : fichiers et bases
     * Dessiner son job : Bonne pratiques
     * Générer des jeux de données de test
     * Gérer les accès aux fichiers (XML, Positionnels…)
     * Gérer les accès aux bases de données (ODBC & connexions natives)
     * Utiliser SqlBuilder pour générer et fédérer ses requêtes
-
 4. Fédération des metadatas dans le Référentiel
     * Fédérer vos chaînes de connexion
     * Fédérer vos schémas (structure des flux de données)
-
 5. Transformation et enrichissement des données
     * Utiliser les différents composants de transformation
     * Mapper ses données grâce à un outil graphique
     * Qualifier ses données grâce aux filtres
     * Générer des sorties multiples et gérer les rejets
-
 6. Manipulation les composants avancés
     * Manipuler les données liées à Internet
     * Manipuler les données d’applications tierces (SugarCRM, SalesForce…)
     * Définir des contextes d’exécution (développement, production)
-
 7. Utilisation des fonctionnalités de développement
     * Injecter du code Java dans vos jobs
     * Mettre en place une gestion d’erreur
@@ -65,7 +59,6 @@ Talend s’impose comme LA solution d'intégration de données Open Source, puis
     * Logger les statistiques d’exécution de vos jobs
     * Fédérer votre code (classes java)
     * Réutiliser les classes ou modules existants
-
 8. Debuging, déploiement et optimisation
     * Débugger rapidement avec le tLogRow
     * Utiliser le mode statistique
@@ -74,7 +67,6 @@ Talend s’impose comme LA solution d'intégration de données Open Source, puis
     * Gérer les contextes d'exécution
     * Optimiser ses Jobs (routines et snippets)
     * Déployer ses jobs et les exposer sous forme de webservices
-
 9. S’appuyer sur la communauté Talend
     * Utiliser les outils communautaires (Forum, Ecosystem, BugTracker)
     * Échanger avec la communauté

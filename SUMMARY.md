@@ -3,7 +3,7 @@
 * [Catalogue de formation 2014](README.md)
    * [Notre démarche](notre_demarche.md)
 * [Gestion de contenu](gestion_de_contenu/README.md)
-   * [Drupal 7](gestion_de_contenu/drupal_7.md)
+   * [Drupal ](gestion_de_contenu/drupal_7.md)
        * [Drupal rédacteur](gestion_de_contenu/drupal_7_redacteur.md)
        * [Drupal administrateur](gestion_de_contenu/drupal_7_administrateur.md)
        * [Drupal développeur](gestion_de_contenu/drupal_7_developpeur.md)

@@ -23,31 +23,24 @@ Cette journée s'articulera autour de travaux pratiques vous permettant d'appré
 1. Introduction
     * Présentation de Django
     * L'implémentation du modèle MVC
-
 2. Premiers pas
     * Prise en main de la syntaxe
     * Organisation des templates
     * Relation entre vues et templates, passage de contexte
-
 3. Modularisation
     * Inclusion de template
     * Héritage de template
-
 4. Gestion des ressources
     * Gestion des fichiers statiques (CSS, JS, images, ...)
-
 5. Filtres
     * Utilisation des filtres natifs
     * Échappement et chaînes sécurisées
     * Quand et comment écrire un filtre personnalisé
-
 6. Tags
     * Comprendre le workflow du moteur de template
     * Utilisation des tags natifs
     * Quand et comment écrire un tag personnalisé
-
 7. Traduction
     * Fonctions de traduction dans les templates
-
 8. Administration
     * Intégration de template pour l'interface d'administration

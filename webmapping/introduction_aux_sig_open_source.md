@@ -30,22 +30,18 @@ L'objectif de cette formation est de vous apporter les compétences pour dévelo
   * Collecte : Les notions de géodésie
   * Représentation : Les notions de sémiologie
   * Publication : Les notions de projection
-
 2. A quoi répond un SIG ?
   * Où ? Quoi ? Comment ? Quand ?
   * Fonctionnalités d'un SIG
   * Applications SIG Open Source
   * Typologie des SIG
-
 3. Manipuler les données
   * Formats de fichiers
   * La base de données (PostGIS)
   * L'éditeur (QGIS)
   * Le serveur de cartes (GeoServer)
   * Le webmapping (OpenLayers)
-
 4. Conclusion et Conseils
-
 5. Travaux pratiques
   * Mise en application des concepts
   * Manipulations et transformation de données SIG à l'aide de l'outil Quantum Gis (QGIS)

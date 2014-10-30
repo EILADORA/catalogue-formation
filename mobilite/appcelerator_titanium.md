@@ -24,17 +24,14 @@ Titanium est un logiciel open-source qui permet de construire des applications p
 1. Rappels
   * Le JavaScript
   * La programmation orientée objet
-
 2. Appcelerator Titanium
   * Présentation
   * Architecture
   * Langage et API
-
 3. Titanium Studio
   * Présentation
   * KitchenSink
   * Création d'un projet
-
 4. Exploration de l'API
   * Ti.App.Properties
   * Ti.Filesystem
@@ -42,5 +39,4 @@ Titanium est un logiciel open-source qui permet de construire des applications p
   * Ti.Network.HTTPClient
   * Ti.Geolocation
   * Ti.Map
-
 5. Gestion de la mémoire et développement avancé

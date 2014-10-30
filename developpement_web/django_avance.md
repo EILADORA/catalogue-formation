@@ -26,42 +26,32 @@ D'après nos connaissances acquises au fil des années sur des projets réels, n
 1. Modèles avancés
     * Les classes abstraites et les mixins
     * Méthodes de requêtage avancées
-
 2. Vues avancées
     * Les mixins de vues
     * Les concepts *Middleware* et *Context processor*
     * Les décorateurs
-
 3. Formulaires avancés
     * Écrire un champ personnalisé
     * Écrire un widget personnalisé
-
 5. Templates avancés
     * Comprendre le workflow du moteur de template
     * Quand et comment écrire un tag personnalisé
-
 6. Gestion des utilisateurs avancée
     * Modèle utilisateur remplaçable
     * Développement d'un backend d'authentification personnalisé
-
 7. Localisation et internationalisation avancée
     * Traduction des contenus
     * Localisation d'URL
     * Gestion des timezones
     * Changement de langue dynamique
-
 8. Signaux
     * Le concept *Signal*
     * Présentation des principaux signaux natifs
     * Quand et comment écrire un signal personnalisé
-
 9. Optimisation des performances
     * Accès à la base de données et bonnes pratiques ORM
     * Gestion du cache (vues, templates, modèles)
-
 10. Administration
     * Personnalisation avancée de l'interface d'administration
-
 11. Tests
     * Méthodes de tests avancés
-

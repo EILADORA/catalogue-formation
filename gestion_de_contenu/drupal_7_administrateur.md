@@ -30,33 +30,27 @@ Cette formation vous apportera les connaissances nécessaires à la création, l
   * Configuration du serveur
   * Configuration de la base de données
   * Architecture des répertoires
-
 2. Architecture d’un site Drupal
   * Configuration du sites modules
   * Les blocs
   * Les menus
-
 3. Les contrôles d’accès
   * Les rôles et les droits
   * Les utilisateurs
   * Les règles d’accès
-
 4. Le contenu
   * Les types de contenus
   * Gérer les contenus
   * Les modules de gestion du contenu
-
 5. Gestion avancée du contenu
   * Classification du contenu par taxonomie
   * Modules de personnalisation du contenu
   * Création des vues
   * Enrichissement des pages
-
 6. Les modèles de présentation : les thèmes
   * Principes
   * Installation
   * Personnalisation
-
 7. Pour aller plus loin, les principaux modules de la communauté
   * Référencement
   * Mises en page complexes

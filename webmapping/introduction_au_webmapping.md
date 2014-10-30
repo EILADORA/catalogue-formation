@@ -23,33 +23,26 @@ Cette formation s'adresse aux structures cherchant à mettre en place un projet 
 1. Concepts et théories
   * SIG : définition, historique
   * Web et SIG : définition et utilité
-
 2. État de l'art : panorama des solutions actuelles
   * Passage en revue des solutions existantes
   * Atouts et manques de chacune
   * Différences avec les outils desktop
-
 3. Architectures techniques
   * Portraits des différentes architectures mises en place dans le webmapping
   * Analyses des différents modèles
-
 4. Langages, formats, protocoles
   * Panorama des langages utilisés dans le webmapping
   * Libres : php mapscript, python, sql...
   * Propriétaires : flash...
   * Panorama des protocoles utilisés
   * Formats (svg, raster...)
-
 5. Interopérabilité et normes OGC
   * Définition
   * Xebservices, formats, WMS/WFS/ WMS-C...
-
 6. Présentation détaillée et comparatif de solutions
   * Choix adaptés à chaque utilisation
   * Comparatif par rapport aux performances (graphiques, délais, mises en œuvre...)
-
 7. Les applications clientes
   * Passage en revue des différentes applications cliente Open Source
   * Exemples sur des sites concrets dans divers domaines
-
 8. Exercices pratiques

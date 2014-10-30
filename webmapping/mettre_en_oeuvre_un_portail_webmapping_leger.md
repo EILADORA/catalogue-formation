@@ -27,23 +27,18 @@ L'objectif de cette formation est de vous apporter les compétences pour dévelo
 1. Présentation rapide des SIG et du Webmapping
   * Définitions et notions fondamentales à connaître
   * Introduction à QGIS
-
 2. Présentation des formats SIG
   * Rappel sur les différents formats de données géographiques
   * Le GeoJSON
-
 3. Bibliothèque cartographique Leaflet
   * Ajouter des couches, des marqueurs et des popups
   * Interaction avec des couches vectorielles
   * Ajouter des plugins
-
 4. Intégration de données géographiques dans une base Postgres/Postgis
   * Intégration de Shapefiles dans la base
   * Manipulations simples sur ces données (projections, requêtes spatiales)
-
 5. Création de fonds de plan avec TileMill
   * Ajouter des données variées
   * Personnaliser le style
-
 6. Afficher son fond de plan
   * Servir des tuiles (django-mbtiles)

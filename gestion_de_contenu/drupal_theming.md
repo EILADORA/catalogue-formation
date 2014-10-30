@@ -29,27 +29,23 @@ L'objectif de cette formation est de vous familiariser avec le theming sous Drup
   * Présentation de Drupal (spécifique à l'intégration graphique)
   * Présentation et installation des outils de développement (WAMP, Editeur PHP, Firefox)
   * Les outils du webdesigner : Firebug, ColorZilla...
-
 2. Rappels CSS
   * Les menus
   * Les mises en page sans tableau
   * Remplacer du texte par une image
   * Les boîtes à bords arrondis
-
 3. HTML / CSS généré par Drupal
   * Analyse et vue d'ensemble des fichiers d'un thème
   * Templates
   * Thèmes
   * Modules
   * Analyse du HTML/CSS généré par Drupal
-
 4. Créer son premier thème
   * Le fichier .info
   * Création de la page.tpl
   * Ajouter des régions
   * Les nodes.tpl
   * Variables de page.tpl
-
 5. Introduction au Responsive Web Design
   * Présentation
   * Omega et Zen

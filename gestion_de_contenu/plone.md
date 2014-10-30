@@ -1,4 +1,4 @@
-# Plone
+# Plone ![Logo Plone](http://makina-corpus.com/media/logos/logoplone)
 Découvrez comment ce CMS répond aux exigences d'un usage simple et ergonomique pour l’utilisateur et d'un fort niveau de paramétrage pour l’administrateur.
 
 ## Quelques exemples de réalisations

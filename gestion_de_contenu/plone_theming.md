@@ -30,7 +30,6 @@ L'objectif de cette formation est de vous familiariser avec l'intégration sous 
 2. Structure HTML
     * Le thème par défaut « Sunburst »
 3. Diazo
-
 4. La gestion des ressources d'un thème
     * Image
     * CSS

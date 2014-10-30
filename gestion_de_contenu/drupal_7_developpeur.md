@@ -23,15 +23,12 @@ L'objectif de cette formation est de vous apporter les compétences pour dévelo
 1. Les outils de développement
     * PHP
     * Drupal
-
 2. Les concepts Drupal importants
     * Les menus
     * Les hooks
-
 3. La modification d'un site existant
     * hook_menu_alter
     * hook_form_alter
-
 4. La création d'un module
     * hook_menu
     * hook_block
@@ -40,28 +37,23 @@ L'objectif de cette formation est de vous apporter les compétences pour dévelo
     * Gestion des nodes
     * Gestion des utilisateurs
     * Autres fonctions usuelles
-
 5. La FormAPI
     * Créer un formulaire
     * La validation
     * La soumission
-
 6. Le thème
     * hook_theme
     * Les CSS
     * Les JS
     * La création d'un thème
-
 7. Fonctionnalités avancées
     * Le cache
     * La session
-
 8. Gérer son site avec Drush
     * Installer Drush
     * Installer un module
     * Mettre à jour son site
     * Vider le cache de son site
-
 9. Industrialisation des développements
     * Les profils d'installation
     * Le module Features

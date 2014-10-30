@@ -25,17 +25,14 @@ Cette formation est destinée aux développeurs souhaitant approfondir leur conn
 1. Les types de données
   * Choisir les structures de données
   * Les structures avancées de Python
-
 2. Les modules de Python
   * Créer et installer des modules tiers
   * Le dépôt central : Python Package index (Pypi)
   * Déploiement avancé (virtualenv, buildout)
-
 3. Programmation orientée par les tests
   * Présentation du TDD (Test Driven Developpement)
   * Unittest2
   * Flake8 (contrôle de syntaxe)
-
 4. Amélioration des performances
   * Profiling
   * Introduction au multithreading

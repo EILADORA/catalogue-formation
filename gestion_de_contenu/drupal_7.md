@@ -1,4 +1,4 @@
-# Drupal 7
+# Drupal ![Logo Drupal](http://makina-corpus.com/media/logos/drupal.png)
 Découvrez également nos formations "développeur initié", réservées aux développeurs ayant déjà une première expérience avec Drupal.
 
 Le plan de la formation est modifié pour aborder la question de l'optimisation de votre site, l'accélération de vos développements et les performances.

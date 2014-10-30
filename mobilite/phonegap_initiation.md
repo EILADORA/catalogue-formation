@@ -24,7 +24,6 @@ Cette formation PhoneGap vous permettra d'acquérir les compétences nécessaire
   * Différences entre application mobile, site web mobile et WebApp
   * Introduction aux cross plate-formes mobiles
   * Avantages du développement mobile multiplate-formes
-
 2. PhoneGap
   * Présentation générale
   * Architecture
@@ -32,17 +31,14 @@ Cette formation PhoneGap vous permettra d'acquérir les compétences nécessaire
   * APIs PhoneGap
   * Installation de l'environnement de développement pour Android
   * Installation de l'environnement de développement pour iOS
-
 3. HTML5, Responsive Web Design et expérience utilisateur
   * HTML5 / CSS3
   * RWD (Media-Queries...)
   * Expérience utilisateur
-
 4. PhoneGap avancée
   * Application 1 : Utilisation de SQLite et Jquery mobile dans PhoneGap
   * Application 2 : Géolocalisation et affichage de la position de l'utilisateur sur Google Maps / OpenStreet Map (Leaflet JS)
   * Application 3 : Consommation d'un WS Service PHP REST / JSON
-
 5. PhoneGap : une plate-forme extensible ?
   * À travers des bibliothèques JavaScript disponible
   * À travers des plugins en natif

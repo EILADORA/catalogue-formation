@@ -25,14 +25,12 @@ La formation Python Buildout présente les techniques de déploiement automatis�
   * Outil reproductible : 'pinner' les versions, reproduire le comportement sous plusieurs environnements
   * Outil extensible : Extensions des fichiers de config, extensions tierces (buildout.dumpickled_version, mr.developper, omelette
   * Outil « project centric » : Déploiement sous différents environnements, développement, préprod, production
-
 2. Notions fondamentales
   * Sys.path (site-packages)
   * Namespaces et packages
   * Distribution sous forme d'egg
   * Setup.py
   * Easy_install, pip, virtual_env
-
 3. Les sections d'un Buildout
   * Variables globales
   * Parts
@@ -40,17 +38,14 @@ La formation Python Buildout présente les techniques de déploiement automatis�
   * Developp
   * Références
   * Recipe
-
 4. Gérer un projet
   * Étendre un buildout
   * Base.cfg
   * Dev.cfg
   * Prod.cfg
-
 5. Tester un projet
   * Ajout d'une part tests
   * Couplage du buildout à un environnement de tests d'intégration continue (jenkins)
   * Mr.developper, dump_picked_versions, omelette (avec des extensions tierces)
-
 6. Couplage de buildout avec paste.script
   * ZopeSkel, écrire son propre template pour les eggs, pour un projet (génération d'eggs, de buildout.cfg

@@ -18,31 +18,27 @@ Cette formation vous permettra de découvrir les possibilités de l'environnemen
 * 1 500 €
 
 ### Programme
-1- Introduction
+1. Introduction
   * Pourquoi développer des applications mobiles ?
   * Pourquoi Android ?
   * Android : présentation générale et architecture du système
   * Mise en place de l’espace de travail
   * hello word et structure d’un projet
   * Tester son développement et outils disponible avec le SDK
-
-2- Design et conception de l'interface utilisateur
+2. Design et conception de l'interface utilisateur
   * Les éléments graphiques simples et complexes
   * Android guideline et UX
   * Bonne pratiques
-
-3- Gestions des activités
+3. Gestions des activités
   * 1ere application sous Android
   * Communication entre les activités
   * Cycle de vie d'une Activity
   * AsyncTask
   * Les fragments
-
-4- Exemples avancés
+4. Exemples avancés
   * Google maps V2
   * Géolocalisation
   * Stockage et gestion des données: sharedpreference, Sqlite
   * Consommation des services web (parsing d'un fichier JSON)
   * Première carte OSM sous Android
-
-5- Outils, conseils et bonnes pratiques
+5. Outils, conseils et bonnes pratiques

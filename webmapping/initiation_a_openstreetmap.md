@@ -23,15 +23,12 @@ Cette journée de formation vous permettra de découvrir le projet OpenStreetMap
   * Philosophie du projet
   * Licence des données
   * Modèle de données
-
 2. Présentation des différents éditeurs (iD, Potlatch, JOSM)
-
 3. Utiliser JOSM
   * Prise en main de l'application
   * Présentation des plugins
   * Ajouter et éditer des données
   * Utilisation du cadastre, d'imagerie aérienne et de traces GPS
-
 4. Utiliser les données OpenStreetMap
   * Comme fond de carte
   * Obtenir un shapefile

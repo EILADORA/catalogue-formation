@@ -28,13 +28,11 @@ Cette formation vous apprendra à mettre en place des applications cartographiqu
   * Données spatiales
   * Formats et sources de données
   * Projections cartographiques
-
 2. Premiers pas
   * Fonds de carte et des couches
   * Marqueurs
   * Popups
   * Données GeoJSON
-
 3. Fonctionnalités avancées
   * Options d'initialisation de la carte
   * Localisation de l'utilisateur
@@ -42,14 +40,11 @@ Cette formation vous apprendra à mettre en place des applications cartographiqu
   * Interactions avec les objets
   * Mise en forme conditionnelle d'objets vectoriels
   * Marqueurs avec icônes personnalisées
-
 4. Gestion des projections
   * Utiliser des données dans des projections variées
-
 5. Édition
   * Formulaires HTML
   * Leaflet.draw
-
 6. Assemblage de modules complémentaires
   * Recherche d'adresses
   * Regroupement d'objets proches (clustering)

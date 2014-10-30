@@ -46,7 +46,7 @@ Un support complet avec les principaux points clefs ainsi que les exercices corr
 
   2.2. Keywords & builtins functions
     * with, map, lambda, filter, any, all etc.
-
+    
   2.3. Conventions de codage et de nommage
     * pep-0008
     * pep-0257

@@ -29,17 +29,14 @@ L'objectif de cette formation est de vous apporter les compétences pour maîtri
     * Les Factories
     * Les Utilities
     * Les Events
-
 2. Les skins
     * Les browser_views
     * Les viewlets
     * Les portlets
-
 3. Plone et les tests
     * Unittests / doctests
     * Tests d’intégration / fonctionnels
     * Selenium / Robotframework
-
 4. Création d'un produit
     * plone.app (portal)
     * Les Tools
@@ -49,13 +46,11 @@ L'objectif de cette formation est de vous apporter les compétences pour maîtri
     * Les Vocabularies
     * Les Permissions
     * Les ressources (JS/CSS)
-
 5. Generic_setup
     * Import/export steps
     * Content_Types
     * Workflows
     * Skins
-
 6. Optimisationge
     * Montée en charge
     * Zeo
